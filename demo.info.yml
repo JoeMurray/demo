@@ -1,4 +1,4 @@
-name: Drupal 8 Demo module
-description: 'Demo module for Drupal 8 alpha11'
+name: Drupal 8 Voice Broadcast Demo module
+description: 'Voice Broadcast Demo module'
 type: module
 core: 8.x
